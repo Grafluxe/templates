@@ -1,4 +1,4 @@
-###### Compiled source
+#### Compiled source
 
 *.com
 *.class
@@ -10,7 +10,8 @@
 *.air
 *.pyc
 
-###### Packages
+
+#### Packages
 
 *.7z
 *.dmg
@@ -21,16 +22,17 @@
 *.zip
 *.app
 
-###### Logs and databases
+
+#### Logs and databases
 
 *.log
 *.sql
 *.sqlite
 
-###### OS generated files
+
+#### OS generated files
 
 .DS_Store
-.DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
@@ -38,7 +40,8 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-###### Directories
+
+#### Directories
 
 node_modules/
 bower_components/
